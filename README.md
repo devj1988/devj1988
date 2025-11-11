@@ -6,7 +6,7 @@
 ### 🌟 About Me
 
 - 💡 **Senior Full-Stack Engineer** with 10+ years of experience designing and delivering enterprise-grade, scalable solutions.  
-- 🖥️ Expert in crafting **modern, responsive UIs** ( React, Angular) and **high-performance backends** (Node.js, Python, Java Spring Boot).  
+- 🖥️ Expert in crafting **modern, responsive UIs** ( React ) and **high-performance backends** (Node.js, Python, Java Spring Boot).  
 - ☁️ Strong background in **cloud computing & DevOps**: AWS, Azure, Docker, Kubernetes, CI/CD pipelines.
 
 ---
