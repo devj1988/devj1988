@@ -7,7 +7,7 @@
 
 - 💡 **Senior Full-Stack Engineer** with 10+ years of experience designing and delivering enterprise-grade, scalable solutions.  
 - 🖥️ Expert in crafting **modern, responsive UIs** ( React ) and **high-performance backends** (Node.js, Python, Java Spring Boot).  
-- ☁️ Strong background in **cloud computing & DevOps**: AWS, Azure, Docker, Kubernetes, CI/CD pipelines.
+- ☁️ Strong background in **cloud computing & DevOps**: GCP, Docker, Kubernetes, CI/CD pipelines.
 
 ---
 
@@ -34,7 +34,7 @@
 
 - **Frontend Engineering**: React, Angular, TypeScript 
 - **Backend Development**: Node.js, Python (Django/Flask), Java Spring Boot, Express.js  
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, Jenkins, CI/CD pipelines  
+- **Cloud & DevOps**: GCP, Docker, Kubernetes, Jenkins, CI/CD pipelines  
 - **Databases**: MySQL, MongoDB, Cassandra, ElasticSearch  
 - **AI/ML & Analytics**: TensorFlow, PyTorch, NLP  
 - **Practices**: Agile/Scrum, TDD, System Design, Microservices
@@ -50,7 +50,6 @@
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png">
